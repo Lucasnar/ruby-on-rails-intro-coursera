@@ -1,3 +1,7 @@
+I did not erase the contents of this README file because this repo
+exists only for learning purposes.
+The deafult README file from the course is as follows:
+
 == README
 
 This README would normally document whatever steps are necessary to get the
